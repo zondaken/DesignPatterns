@@ -1,0 +1,16 @@
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\Observer_PushUpdate.exe
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\Observer_PushUpdate.deps.json
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\Observer_PushUpdate.runtimeconfig.json
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\Observer_PushUpdate.runtimeconfig.dev.json
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\Observer_PushUpdate.dll
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\ref\Observer_PushUpdate.dll
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\bin\Debug\net5.0\Observer_PushUpdate.pdb
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.csproj.AssemblyReference.cache
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.AssemblyInfoInputs.cache
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.AssemblyInfo.cs
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.csproj.CoreCompileInputs.cache
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.dll
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\ref\Observer_PushUpdate.dll
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.pdb
+C:\Users\marino.zirks\Desktop\DesignPatterns\Observer_PushUpdate\obj\Debug\net5.0\Observer_PushUpdate.genruntimeconfig.cache
